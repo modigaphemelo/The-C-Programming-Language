@@ -1,4 +1,4 @@
-# C Mastery Roadmap
+# The C Programming Language
 
 *The language that built the modern world. No runtime, no safety nets, no excuses.*
 
