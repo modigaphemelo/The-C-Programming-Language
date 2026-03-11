@@ -22,8 +22,8 @@ The voice is professional, precise, and assumes an intelligent reader. No analog
 ## Mastery Checklist
 
 ### Part 01: Foundations — The Absolute Basics
-- [ ] [History — Why C exists, where it's used](/01-foundations/notes/01-history.md)
-- [ ] [Structure of a C Program — `main()`, headers](/01-foundations/notes/02-program-structure.md)
+- [x] [History — Why C exists, where it's used](/01-foundations/notes/01-history.md)
+- [x] [Structure of a C Program — `main()`, headers](/01-foundations/notes/02-program-structure.md)
 - [ ] [Compilation — Preprocessor, compiler, linker, assembler](/01-foundations/notes/03-compilation.md)
 - [ ] [Basic Types — `int`, `char`, `float`, `double`](/01-foundations/notes/04-basic-types.md)
 - [ ] [Variables — Declaration, initialization, scope](/01-foundations/notes/05-variables.md)
